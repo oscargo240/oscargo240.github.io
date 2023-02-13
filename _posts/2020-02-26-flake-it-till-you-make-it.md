@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make itasdf
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: Compute the localisation of the camera that took an old photograph.
+subtitle: 
+cover-img: /assets/img/oldBA.png
 thumbnail-img: /assets/img/perspective.gif
 share-img: /assets/img/path.jpg
 tags: [books, test]
